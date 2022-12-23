@@ -1,5 +1,5 @@
 # Cyberattack Classification using MQTT Dataset
-**NAME:** Jong Hoon Park \
+**NAME:** Jong Hoon Park
 
 
 # Dataset
